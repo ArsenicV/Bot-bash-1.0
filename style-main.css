@@ -612,7 +612,6 @@
     background-color: var(--accent);
     border: 1px solid var(--sub-accent);
     animation: fadeR 0.3s;
-    font-size: 120%;
   }
   @keyframes fadeR {
     0% {
