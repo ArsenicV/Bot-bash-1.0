@@ -659,12 +659,12 @@
   font-size: 110%;
   line-height: 1.6;
   word-spacing: 1px;
-  padding-bottom: 4%;
+  padding-top: 8%;
   color: var(--sub);
   width: 88%;
 }
 .sub-n {
-  padding-top: 8%;
+  padding-top: 10%;
 }
  hr {
   color: var(--sub);
