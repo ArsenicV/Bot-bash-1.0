@@ -558,7 +558,7 @@
   }
 
   .title{
-    padding-top: 55%;
+    padding-top: 68%;
     text-align: center;
     font-family: "Nova Square";
     color: var(--def-sub);
@@ -577,7 +577,7 @@
     padding-top: 2.3%;
     text-align: center;
     color: var(--sub);
-    font-size: 90%;
+    font-size: 95%;
     font-family: "Nova Square";
     line-height: 1.3;
     word-spacing: -.5px;
@@ -590,13 +590,13 @@
 
   .bag {
     text-align: center;
-    padding-top: 5.5%;
+    padding-top: 7%;
   }
   .bag a {
     text-decoration: none;
     color: var(--def-sub);
     font-family: "Nova Square";
-    font-size: 130%;
+    font-size: 120%;
   }
   .button {
     border: 1px solid var(--sub);
@@ -612,7 +612,7 @@
     background-color: var(--accent);
     border: 1px solid var(--sub-accent);
     animation: fadeR 0.3s;
-    font-size: 80%;
+    font-size: 120%;
   }
   @keyframes fadeR {
     0% {
@@ -626,7 +626,7 @@
   /*Updated feb 16*/
 
   .space {
-    padding-top: 60%;
+    padding-top: 75%;
   }
   /*.ccdr {
     background-color: var(--main);
