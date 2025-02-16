@@ -139,10 +139,13 @@
   padding-left: 3%;
   font-family: "Nova Square";
   font-size: 110%;
-  line-height: 2.5;
+  line-height: 1.6;
   word-spacing: 1px;
-  padding-bottom: 3%;
+  padding-bottom: 1%;
   color: var(--sub);
+}
+.sub-n {
+  padding-top: 3%;
 }
  hr {
   color: var(--sub);
@@ -300,10 +303,13 @@
     padding-left: 3%;
     font-family: "Nova Square";
     font-size: 120%;
-    line-height: 2.5;
+    line-height: 1.6;
     word-spacing: 1px;
-    padding-bottom: 3%;
+    padding-bottom: 1%;
     color: var(--sub);
+  }
+  .sub-n {
+    padding-top: 3%;
   }
    hr {
     color: var(--sub);
@@ -458,7 +464,7 @@
   padding-top: 4%;
   font-family: "Nova Square";
   font-size: 285%;
-  padding-bottom: 2%;
+  padding-bottom: 4%;
 }
 
 .sub-title:hover {
@@ -469,11 +475,14 @@
   padding-left: 3%;
   font-family: "Nova Square";
   font-size: 120%;
-  line-height: 2.5;
+  line-height: 1.6;
   word-spacing: 1px;
-  padding-bottom: 4%;
+  padding-bottom: 2%;
   color: var(--sub);
   width: 88%;
+}
+.sub-n {
+  padding-top: 6%;
 }
  hr {
   color: var(--sub);
@@ -648,11 +657,14 @@
   padding-left: 3%;
   font-family: "Nova Square";
   font-size: 110%;
-  line-height: 2.5;
+  line-height: 1.6;
   word-spacing: 1px;
-  padding-bottom: 8%;
+  padding-bottom: 4%;
   color: var(--sub);
   width: 88%;
+}
+.sub-n {
+  padding-top: 8%;
 }
  hr {
   color: var(--sub);
