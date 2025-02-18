@@ -804,7 +804,7 @@
 
 /*Update -17Feb - */
 .back-vid {
-  position: fixed;
+  position: absolute;
   right: 0;
   bottom: 0;
   z-index: -1;
