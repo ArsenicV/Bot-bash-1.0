@@ -757,6 +757,7 @@
   img {
     width: 19.5%;
     padding-top: -3%;
+    z-index: -1;
   }
 
 
